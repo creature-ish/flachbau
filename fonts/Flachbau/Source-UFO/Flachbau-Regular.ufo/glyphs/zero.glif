@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero" format="2">
+  <advance width="740"/>
+  <unicode hex="0030"/>
+  <outline>
+    <contour>
+      <point x="60" y="381" type="curve" smooth="yes"/>
+      <point x="60" y="137"/>
+      <point x="179" y="-15"/>
+      <point x="371" y="-15" type="curve" smooth="yes"/>
+      <point x="562" y="-15"/>
+      <point x="680" y="137"/>
+      <point x="680" y="381" type="curve" smooth="yes"/>
+      <point x="680" y="625"/>
+      <point x="562" y="778"/>
+      <point x="371" y="778" type="curve" smooth="yes"/>
+      <point x="180" y="778"/>
+      <point x="60" y="626"/>
+    </contour>
+    <contour>
+      <point x="158" y="380" type="curve" smooth="yes"/>
+      <point x="158" y="575"/>
+      <point x="240" y="698"/>
+      <point x="370" y="698" type="curve" smooth="yes"/>
+      <point x="501" y="698"/>
+      <point x="582" y="575"/>
+      <point x="582" y="380" type="curve" smooth="yes"/>
+      <point x="582" y="187"/>
+      <point x="501" y="65"/>
+      <point x="370" y="65" type="curve" smooth="yes"/>
+      <point x="240" y="65"/>
+      <point x="158" y="187"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O+10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O+10</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="2">
+  <advance width="480"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="15" y="-85" type="line"/>
+      <point x="465" y="-85" type="line"/>
+      <point x="465" y="-15" type="line"/>
+      <point x="15" y="-15" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=15</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=15</string>
+  </dict>
+  </lib>
+</glyph>

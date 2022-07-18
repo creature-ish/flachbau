@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="2">
+  <advance width="915"/>
+  <unicode hex="0057"/>
+  <anchor x="458" y="0" name="bottom"/>
+  <anchor x="458" y="833" name="top"/>
+  <outline>
+    <contour>
+      <point x="188" y="0" type="line"/>
+      <point x="325" y="0" type="line"/>
+      <point x="453" y="655" type="line"/>
+      <point x="463" y="655" type="line"/>
+      <point x="590" y="0" type="line"/>
+      <point x="727" y="0" type="line"/>
+      <point x="895" y="757" type="line"/>
+      <point x="895" y="763" type="line"/>
+      <point x="795" y="763" type="line"/>
+      <point x="660" y="108" type="line"/>
+      <point x="650" y="108" type="line"/>
+      <point x="524" y="763" type="line"/>
+      <point x="390" y="763" type="line"/>
+      <point x="265" y="108" type="line"/>
+      <point x="255" y="108" type="line"/>
+      <point x="120" y="763" type="line"/>
+      <point x="20" y="763" type="line"/>
+      <point x="21" y="757" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=V-10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=V-10</string>
+  </dict>
+  </lib>
+</glyph>

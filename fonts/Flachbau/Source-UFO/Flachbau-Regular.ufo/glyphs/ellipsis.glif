@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="2">
+  <advance width="705"/>
+  <unicode hex="2026"/>
+  <outline>
+    <contour>
+      <point x="75" y="0" type="line"/>
+      <point x="193" y="0" type="line"/>
+      <point x="193" y="104" type="line"/>
+      <point x="75" y="104" type="line"/>
+    </contour>
+    <contour>
+      <point x="301" y="0" type="line"/>
+      <point x="419" y="0" type="line"/>
+      <point x="419" y="104" type="line"/>
+      <point x="301" y="104" type="line"/>
+    </contour>
+    <contour>
+      <point x="527" y="0" type="line"/>
+      <point x="645" y="0" type="line"/>
+      <point x="645" y="104" type="line"/>
+      <point x="527" y="104" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=I</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=I-15</string>
+  </dict>
+  </lib>
+</glyph>

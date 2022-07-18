@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uring" format="2">
+  <advance width="740"/>
+  <unicode hex="016E"/>
+  <anchor x="370" y="823" name="ring"/>
+  <anchor x="370" y="833" name="top"/>
+  <outline>
+    <component base="U"/>
+    <component base="ring.case" xOffset="243" yOffset="-10"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>U+ring.case</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

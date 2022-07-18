@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="2">
+  <advance width="785"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="160" y="436" type="line"/>
+      <point x="220" y="436" type="line"/>
+      <point x="220" y="718" type="line"/>
+      <point x="350" y="718" type="line"/>
+      <point x="350" y="763" type="line"/>
+      <point x="30" y="763" type="line"/>
+      <point x="30" y="718" type="line"/>
+      <point x="160" y="718" type="line"/>
+    </contour>
+    <contour>
+      <point x="379" y="763" type="line"/>
+      <point x="379" y="436" type="line"/>
+      <point x="439" y="436" type="line"/>
+      <point x="439" y="706" type="line"/>
+      <point x="447" y="706" type="line"/>
+      <point x="502" y="436" type="line"/>
+      <point x="588" y="436" type="line"/>
+      <point x="642" y="706" type="line"/>
+      <point x="650" y="706" type="line"/>
+      <point x="650" y="436" type="line"/>
+      <point x="710" y="436" type="line"/>
+      <point x="710" y="763" type="line"/>
+      <point x="608" y="763" type="line"/>
+      <point x="550" y="493" type="line"/>
+      <point x="542" y="493" type="line"/>
+      <point x="483" y="763" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=i</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcroat" format="2">
+  <advance width="745"/>
+  <unicode hex="0110"/>
+  <anchor x="124" y="382" name="middle"/>
+  <anchor x="311" y="833" name="top"/>
+  <outline>
+    <component base="D"/>
+    <component base="hyphen" xOffset="-96" yOffset="98"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>D+&lt;50~50hyphen%</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

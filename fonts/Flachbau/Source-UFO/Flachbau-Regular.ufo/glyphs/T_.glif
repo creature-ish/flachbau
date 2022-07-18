@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="2">
+  <advance width="620"/>
+  <unicode hex="0054"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="310" y="382" name="middle"/>
+  <anchor x="310" y="833" name="top"/>
+  <outline>
+    <contour>
+      <point x="261" y="0" type="line"/>
+      <point x="359" y="0" type="line"/>
+      <point x="359" y="763" type="line"/>
+      <point x="261" y="763" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="683" type="line"/>
+      <point x="600" y="683" type="line"/>
+      <point x="600" y="763" type="line"/>
+      <point x="20" y="763" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=x</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=x</string>
+  </dict>
+  </lib>
+</glyph>

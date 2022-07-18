@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcaron" format="2">
+  <advance width="410"/>
+  <unicode hex="0159"/>
+  <anchor x="238" y="595" name="top"/>
+  <outline>
+    <component base="r"/>
+    <component base="caron" xOffset="46"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>r+caron</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

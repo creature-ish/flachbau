@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="2">
+  <advance width="288"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="85" y="0" type="line"/>
+      <point x="203" y="0" type="line"/>
+      <point x="203" y="104" type="line"/>
+      <point x="85" y="104" type="line"/>
+    </contour>
+    <contour>
+      <point x="95" y="755" type="line"/>
+      <point x="109" y="220" type="line"/>
+      <point x="179" y="220" type="line"/>
+      <point x="193" y="755" type="line"/>
+      <point x="193" y="763" type="line"/>
+      <point x="95" y="763" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=I+10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=I+10</string>
+  </dict>
+  </lib>
+</glyph>

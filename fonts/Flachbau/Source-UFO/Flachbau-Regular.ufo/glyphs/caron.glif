@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="2">
+  <advance width="384"/>
+  <unicode hex="02C7"/>
+  <anchor x="192" y="595" name="_top"/>
+  <outline>
+    <contour>
+      <point x="236" y="625" type="line"/>
+      <point x="354" y="755" type="line"/>
+      <point x="354" y="763" type="line"/>
+      <point x="266" y="763" type="line"/>
+      <point x="195" y="675" type="line"/>
+      <point x="190" y="675" type="line"/>
+      <point x="118" y="763" type="line"/>
+      <point x="30" y="763" type="line"/>
+      <point x="30" y="755" type="line"/>
+      <point x="148" y="625" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=A</string>
+  </dict>
+  </lib>
+</glyph>

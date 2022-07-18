@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesingle" format="2">
+  <advance width="235"/>
+  <unicode hex="0027"/>
+  <outline>
+    <contour>
+      <point x="75" y="755" type="line"/>
+      <point x="91" y="525" type="line"/>
+      <point x="161" y="525" type="line"/>
+      <point x="175" y="755" type="line" smooth="yes"/>
+      <point x="175" y="763" type="line"/>
+      <point x="75" y="763" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=period</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=period</string>
+  </dict>
+  </lib>
+</glyph>

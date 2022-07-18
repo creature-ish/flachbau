@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macronmod" format="2">
+  <advance width="485"/>
+  <unicode hex="02C9"/>
+  <anchor x="243" y="685" name="_middle"/>
+  <outline>
+    <contour>
+      <point x="410" y="650" type="line"/>
+      <point x="410" y="720" type="line"/>
+      <point x="75" y="720" type="line"/>
+      <point x="75" y="650" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=macron</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=macron</string>
+  </dict>
+  </lib>
+</glyph>

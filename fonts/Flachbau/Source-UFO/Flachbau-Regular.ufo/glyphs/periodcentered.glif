@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered" format="2">
+  <advance width="253"/>
+  <unicode hex="00B7"/>
+  <anchor x="-25" y="525" name="_middle"/>
+  <outline>
+    <contour>
+      <point x="75" y="421" type="line"/>
+      <point x="193" y="421" type="line"/>
+      <point x="193" y="525" type="line"/>
+      <point x="75" y="525" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=I</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=I-15</string>
+  </dict>
+  </lib>
+</glyph>
